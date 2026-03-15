@@ -110,9 +110,6 @@ www.linkedin.com/in/cássio-yonetsuka-2094a9273
 📧 Email  
 cassioeky@gmail.com
 
-💻 GitHub  
-https://github.com/seuusuario
-
 ---
 
 ⭐ Obrigado por visitar meu perfil!
