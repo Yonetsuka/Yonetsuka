@@ -49,6 +49,14 @@ Gosto especialmente de trabalhar com:
 
 # 📂 Projetos em Destaque
 
+## FIAP - Global Solution: DevOps & Cloud Architecture
+
+Esse projeto foi voltado para a automação e integração do github actions com o ambiente do Azure:
+
+[![Build and deploy Python app to Azure Web App - FloodPrev](https://github.com/Yonetsuka/GS-DevOps/actions/workflows/main_floodprev.yml/badge.svg)](https://github.com/Yonetsuka/GS-DevOps/actions/workflows/main_floodprev.yml)
+
+[![Deploy Web App to Azure](https://github.com/Yonetsuka/GS-DevOps/actions/workflows/main.yml/badge.svg)](https://github.com/Yonetsuka/GS-DevOps/actions/workflows/main.yml)
+
 ## 🧠 NeuroPath
 
 NeuroPath é uma aplicação para oferecer sugestões de carreira personalizadas.
